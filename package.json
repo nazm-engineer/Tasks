@@ -1,0 +1,23 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazm-engineer/Tasks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazm-engineer/Tasks/issues"
+  },
+  "homepage": "https://github.com/nazm-engineer/Tasks#readme",
+  "devDependencies": {
+    "vitest": "^5.1.1"
+  }
+}
